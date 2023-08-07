@@ -1,0 +1,539 @@
+
+
+body{
+    margin: 0;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.header{
+    width:100%;
+    background: #fff;
+    height: 54px;
+    margin-bottom: 8px;
+}
+.logo{
+    width: 121px;
+    height: auto;
+    padding-left: 85px;
+    padding-top: 15px;
+    float:left;
+}
+.navbar_1{
+    float: left;
+    padding-left:33px ;
+    padding-top: 21px;
+    font-size:14px ; 
+    cursor: pointer;
+}
+.nav{
+    margin-right: 20px;
+}
+.nav:hover,.microsoft:hover,.for1:hover{
+    text-underline-position: under;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;  
+}
+.navbar_2{
+    float: right;
+    padding-right:60px ;
+    padding-top: 10px;
+    font-size:14px; 
+    cursor: pointer;   
+} 
+.microsoft{
+    float: left;
+    padding-top: 10px;
+    margin-right: 10px;
+} 
+.one{
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: 200;
+    font-size: 23px;
+}
+.signin{
+    float:right;
+    width: 42px;
+    margin-top: -10px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.mainbody{
+    margin-left: 4px;
+    height: 350px;
+   
+}
+.first_pic{
+    width:100%;
+    margin-left: 3px;
+    height: 50%;
+
+}
+.firstsection{
+    margin-top: -440px;
+    margin-left:135px;
+}
+.inphoto{
+   
+    font-weight:500; 
+    font-size: 2rem;  
+}
+.material-symbols-outlined {  
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 10
+}
+
+.para1{
+    margin-top: -5px;
+    font-size:1.1rem ;
+    line-height:1.5;
+}
+.btn1{
+    position: relative;
+    background-color: #0067b8;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+    font-size: 15px;
+    height: 43px;
+    width: 155px;
+    cursor: pointer;
+    margin-top: 13px;
+}
+.btn1:hover{
+    background:#005da5 ;
+    border:none;
+}
+.fors {
+    display: flex;
+    align-items: center;
+  }
+.for1{
+    font-size: 17px;
+    font-weight:500;
+    position: sticky;
+    margin-left: 185px;
+    margin-top: -46px;
+    cursor: pointer;
+}
+.two{  
+    margin-top: -53px; 
+    font-size: small;
+    position: relative;
+    cursor: pointer;
+}
+.fors:hover{
+    padding-left: 2px;
+}
+.section_1{
+    width: 100%;
+    height: 242px;
+    background-color: #fff;
+    margin-left: 600px;
+    margin-top: 225px;
+}
+.three,.five,.six{
+    margin-right: 20px;
+}
+.three:hover{
+    color: #171717;
+    cursor: pointer;
+}
+.four{ 
+    margin-right:20px ;
+    font-variation-settings:
+    'FILL' 20,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 20
+}
+.four:hover{
+    padding-left: 2px;
+    cursor: pointer;
+}
+.seven{
+    font-variation-settings:
+    'FILL' 20,
+    'wght' 200,
+    'GRAD' 0,
+    'opsz' 20
+}
+.seven:hover{
+    cursor: pointer;
+}
+
+.section_2{
+    padding-left: 350px;
+    margin-top: -130px;
+}
+
+
+.pic1{
+    width: 60px;
+    height: auto;
+    margin-left: 5px;
+    margin-top: -7px
+}
+
+.pic2,.pic3{
+
+    width: 50px;
+    height: auto;
+    margin-left: 205px;
+    margin-top: -5px;
+}
+.pic4{
+    width: 60px;
+    height: auto;
+    margin-left: 165px;
+    margin-top: -5px;
+}
+.section2_1{
+    font-weight:600;
+    font-size: 1.1rem;
+    cursor: pointer;
+   }
+.pic1_1{
+    color: #0067b8;
+    margin-left: -70px;
+    margin-top: 40px;
+}
+.pic1_2,.pic1_3,.pic1_4{
+    color: #0067b8;
+    margin-left: 47px;
+    margin-top: 40px;
+}
+
+.section3{
+    margin-left: 13px;
+    margin-top: 120px;
+    cursor:pointer
+}
+
+
+.section3_1{
+    margin-left: 65px;
+}
+.section3-img1{
+    margin-top: -25px;
+    width: 318px;
+}
+.section3-head{
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+.section3_para{
+    margin-top: -8px;
+    line-height: 1.5;
+    font-size:17px;
+    margin-bottom: 28px;
+}
+.section3_link{
+    font-size: 18px;
+    color: #0067b8;
+    font-weight: 600;
+    text-decoration: none;
+}
+.section3_link:hover,.section3_link2:hover{
+    text-decoration: underline;
+    cursor:pointer
+}
+.section3_2{
+    margin-top:-364px;
+    margin-left:395px;
+}
+.section3-img2{
+    margin-left: 12px;
+    margin-top: -18px;
+    width: 317px;
+}
+.section3_3{
+    margin-top:-341px ;
+    margin-left: 747px;
+}
+.section3-img3{
+    margin-top: -17px;
+    width: 316px;
+}
+.section3_4{
+    margin-top:-450px;
+    margin-left: 1090px;
+}
+.section3-img4{
+    margin-top: -18px;
+    width: 314px;
+}
+.section3_link2{
+    line-height: 4;
+    color: #0067b8;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.arrow {
+    border: solid #0067b8;;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    transition: .5s;
+    cursor: pointer;
+  }
+  .arrow:hover{
+   margin-left: 8px;
+   cursor: pointer;
+  }
+
+  .right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+  }
+  .section4{
+    margin-top: 40px;
+    margin-left: 75px;
+    vertical-align: middle;
+    height: 446px;
+    background-color: #fff;
+}
+.s4-img{
+    margin-top: 80px;
+    width: 1350px;
+}
+.s4_body{
+    margin-left: 120px;
+    margin-top: -475px;
+}
+.s4_1{
+    font-size:32px;
+    
+    font-weight: 600;
+    color: #fff;
+}
+.s4_2{
+    font-size: 18px;
+    line-height: 1.6rem;
+    margin-top: -5px;
+    margin-bottom:30px;
+    color:#fff
+}
+.s4_btn{
+    position: relative;
+    background-color: #0067b8;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+    font-size: 17px;
+    height: 41px;
+    width: 217px;
+    cursor: pointer;
+}
+
+.section5{
+    margin-top:400px;
+    margin-left: 10px;
+}
+
+.s5-head{
+    font-size: 32px;
+    font-weight: 600;
+    margin-left: 66px;
+    line-height: 0.5;
+}
+
+.section5_1{
+    margin-left: 65px;
+}
+.section5-img{
+    width: 316px;
+}
+.section5_head{
+    font-size: 1.65rem;
+    font-weight: 600;
+}
+.section5_para{
+    font-size: 17px;
+    margin-top: -8px;
+    line-height: 1.5;
+    margin-bottom: 28px;
+}
+.section5_link{
+    font-size: 18px;
+    color: #0067b8;
+    font-weight: 600;
+    text-decoration: none;
+}
+.section5_link:hover{
+    text-decoration: underline;
+    cursor:pointer
+}
+
+.section5_2{
+    margin-top:-356px;
+    margin-left:410px;
+}
+
+
+.section5_3{
+    margin-top:-407px ;
+    margin-left: 754px;
+}
+
+
+.section5_4{
+    margin-top:-356px;
+    margin-left: 1096px;
+}
+  .sectionFollow{
+    width: 100%;
+    height: 146px;
+    background-color: #fff;
+    margin-top: 105px;
+    margin-left: 15px;
+}
+
+  .Follow-text{
+    font-size: 18px;
+    font-weight: 400;
+    color: #000;
+}
+.Follow-img{
+    margin-left:15px;
+    width: 30px;
+    height: 34px;
+    margin-top: 10px;
+}
+.innersection{
+    float: left;
+    margin-top: 14px;
+    margin-left: 77px;
+}
+.back-to-top{
+    margin-top: -95px;
+}
+
+.top{
+    position: relative;
+    background-color:rgba(0,0,0,.15);
+    border: none;
+    font-weight: 600;
+    font-size: 17px;
+    height: 42px;
+    width: 145px;
+    margin-top: 13px;
+    margin-right: 12px;
+    float:right;
+    cursor: pointer;
+    
+}
+.section_6{
+    margin-top: 120px;
+    width: 100%;
+    height: 422px;
+    background: #f2f2f2;
+    
+}
+.tableheadings_topic{
+    float: left;
+    font-size: 8.5px;
+    font-weight: 100;
+    line-height: 20px;
+    color: #616161;
+    margin-left: 35px;
+    margin-top: 35px;
+    padding-right: 40px;
+     
+ }
+ 
+  li{
+    font-size: 12px;
+    line-height: 3;
+    font-weight: 400;
+    list-style-type: none;
+}
+
+.sec6_cont1:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+.footer{
+    width: 100%;
+    height: 64px;
+    background-color: #f2f2f2;
+}
+.language{
+    position: absolute;
+    margin-left: 79px;
+    margin-top: 26px;
+}
+.lan-earth{
+    float: left;
+}
+.lan-en{
+    float: left;
+    margin-left: 12px;
+    margin-top: -3px;
+}
+.earth{
+    width: 20px;
+    height: 20px;
+}
+ul#ul-terms li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 22px;
+}
+.en,.li-terms{
+    color: #616161;
+    font-size: 13px;
+    text-decoration: none;
+}
+.en:hover,.li-terms:hover{
+    text-decoration: underline;
+}
+.terms{
+    float: right;
+    margin-right: 101px;
+    margin-top: 10px;
+}
+.text-microsoft{
+    color: #616161;
+    font-size: 13px;
+}
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
